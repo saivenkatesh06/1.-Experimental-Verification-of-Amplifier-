@@ -151,10 +151,12 @@ If the two input signals are identical, the output is ideally **zero**.
 
 A = Vo/{V2 - V1} = -Rf/R1
 ## CIRCUIT DIAGRAM
-<img width="706" height="522" alt="image" src="https://github.com/user-attachments/assets/917f2544-3735-4a23-a9b7-1264966d0d20" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/03de2a50-a7e5-47b3-bfb8-0800cd8732d1" />
+
 
 ## MODEL GRAPH
-<img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/6aa1b9dd-b112-4be1-a37a-d5ee19607b1d" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ddf2c655-44f5-484c-bd3e-3dde6a17b1f4" />
+
 
 ---
 
